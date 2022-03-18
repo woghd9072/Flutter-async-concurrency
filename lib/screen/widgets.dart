@@ -1,4 +1,7 @@
-import 'package:async_concurrency_demo/counter_controller.dart';
+import 'dart:isolate';
+
+import 'package:async_concurrency_demo/controller/counter_controller.dart';
+import 'package:async_concurrency_demo/controller/isolate_controller.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
@@ -17,7 +20,7 @@ Widget mainPage(String title) {
             'You have pushed the button this many times:',
           ),
           Obx(
-                () => Text(
+            () => Text(
               '${counterController.count.value}',
               style: Theme.of(Get.context!).textTheme.headline4,
             ),
@@ -41,29 +44,37 @@ Widget mainPage(String title) {
               ),
             ],
           ),
+          ElevatedButton(
+              onPressed: () => Get.toNamed('/isolate'),
+              child: const Text("Isolate"),
+          ),
+          ElevatedButton(
+            onPressed: () => Get.toNamed('/async'),
+            child: const Text("Async"),
+          ),
         ],
       ),
     ),
   );
 }
 
-// TODO
-class AsyncPage extends StatelessWidget {
-  const AsyncPage({Key? key}) : super(key: key);
+Widget isolatePage() {
+  final IsolateController isolateController = Get.put(IsolateController());
 
-  @override
-  Widget build(BuildContext context) {
-    return Scaffold();
-  }
-}
-
-// TODO
-class IsolatePage extends StatelessWidget {
-  const IsolatePage({Key? key}) : super(key: key);
-
-  @override
-  Widget build(BuildContext context) {
-    return Scaffold(
-    );
-  }
+  return Scaffold(
+    appBar: AppBar(
+      title: const Text("Isolate Test"),
+    ),
+    body: Column(
+      mainAxisAlignment: MainAxisAlignment.center,
+      children: [
+        FutureBuilder(
+            future: Isolate.spawn(isolateController.parseJson(), ""),
+            builder: (BuildContext context, AsyncSnapshot snapshot) {
+              return ListView();
+            },
+        ),
+      ],
+    ),
+  );
 }

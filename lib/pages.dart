@@ -1,4 +1,4 @@
-import 'package:async_concurrency_demo/screen/widgets.dart';
+import 'package:async_concurrency_demo/screen/screens.dart';
 import 'package:get/get.dart';
 
 class Pages {

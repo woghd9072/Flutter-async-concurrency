@@ -1,5 +1,5 @@
 import 'package:async_concurrency_demo/pages.dart';
-import 'package:async_concurrency_demo/screen/widgets.dart';
+import 'package:async_concurrency_demo/screen/screens.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
@@ -21,16 +21,5 @@ class MyApp extends StatelessWidget {
       home: const MyHomePage(title: 'Flutter Demo Home Page'),
       getPages: Pages.pages,
     );
-  }
-}
-
-class MyHomePage extends StatelessWidget {
-  const MyHomePage({Key? key, required this.title}) : super(key: key);
-
-  final String title;
-
-  @override
-  Widget build(BuildContext context) {
-    return mainPage(title);
   }
 }
