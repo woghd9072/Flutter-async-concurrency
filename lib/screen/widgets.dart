@@ -1,7 +1,6 @@
-import 'dart:isolate';
-
 import 'package:async_concurrency_demo/controller/counter_controller.dart';
 import 'package:async_concurrency_demo/controller/isolate_controller.dart';
+import 'package:async_concurrency_demo/model/organization.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
@@ -52,6 +51,7 @@ Widget mainPage(String title) {
             onPressed: () => Get.toNamed('/async'),
             child: const Text("Async"),
           ),
+          const Text("This is Async"),
         ],
       ),
     ),
@@ -65,16 +65,26 @@ Widget isolatePage() {
     appBar: AppBar(
       title: const Text("Isolate Test"),
     ),
-    body: Column(
-      mainAxisAlignment: MainAxisAlignment.center,
-      children: [
-        FutureBuilder(
-            future: Isolate.spawn(isolateController.parseJson(), ""),
-            builder: (BuildContext context, AsyncSnapshot snapshot) {
-              return ListView();
+    body: FutureBuilder(
+      future: isolateController.loadJson(),
+      builder: (BuildContext context, AsyncSnapshot snapshot) {
+        if (snapshot.hasData) {
+          List list = snapshot.data;
+          return ListView.builder(
+            itemCount: list.length,
+            itemBuilder: (BuildContext context, int index) {
+              var org = Organization.fromJson(list[index]);
+              return ListTile(
+                title: Text("${org.orgName}"),
+                subtitle: Text("${org.orgCode}"),
+              );
             },
-        ),
-      ],
+          );
+        } else {
+          return const CircularProgressIndicator();
+        }
+      },
     ),
+    backgroundColor: Colors.white,
   );
 }

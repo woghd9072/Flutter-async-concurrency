@@ -1,22 +1,19 @@
+import 'dart:collection';
 import 'dart:convert';
 
-import 'package:async_concurrency_demo/model/organization.dart';
+import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:get/get.dart';
 
 class IsolateController extends GetxController {
   final JsonDecoder decoder = const JsonDecoder();
 
-  Future<String> _loadJson() async {
-    return await rootBundle.loadString("assets/sample.json");
-  }
+  var widgets = ListView().obs;
 
-  parseJson() async {
-    var json = await _loadJson();
-    var data = jsonDecode(json);
-    Organization org = Organization.fromJson(data);
-
-    print(org);
-    return org;
+  Future<List> loadJson() async {
+    var json = await rootBundle.loadString("assets/sample.json");
+    HashMap<String, List<dynamic>> jsonData = HashMap.from(jsonDecode(json));
+    var list = jsonData["organization"];
+    return list!;
   }
 }

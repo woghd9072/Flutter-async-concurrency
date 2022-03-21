@@ -1,8 +1,8 @@
 import 'package:equatable/equatable.dart';
 
 class Organization extends Equatable {
-  final String orgCode;
-  final String orgName;
+  final String? orgCode;
+  final String? orgName;
 
   const Organization(this.orgCode, this.orgName);
 
@@ -10,6 +10,6 @@ class Organization extends Equatable {
   List<Object?> get props => [orgCode];
 
   static Organization fromJson(dynamic data) {
-    return Organization(data["orgCode"], data["orgName"]);
+    return Organization(data["orgCode"], data["name"]);
   }
 }
