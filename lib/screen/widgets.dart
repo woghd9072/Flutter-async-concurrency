@@ -65,8 +65,9 @@ Widget isolatePage() {
     appBar: AppBar(
       title: const Text("Isolate Test"),
     ),
+    // Isolate 분리
     body: FutureBuilder(
-      future: isolateController.loadJson(),
+      future: isolateController.loadJsonInAnotherIsolate(),
       builder: (BuildContext context, AsyncSnapshot snapshot) {
         if (snapshot.hasData) {
           List list = snapshot.data;
