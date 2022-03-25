@@ -1,0 +1,1880 @@
+{
+  "organization": [
+    {
+      "orgCode": "A3AAJY0000",
+      "name": "디비저축은행"
+    },
+    {
+      "orgCode": "A3AAJZ0000",
+      "name": "SBI저축은행"
+    },
+    {
+      "orgCode": "F1AAAB0000",
+      "name": "케이디디아이코리아"
+    },
+    {
+      "orgCode": "E1AAAC0000",
+      "name": "세틀뱅크주식회사"
+    },
+    {
+      "orgCode": "A1AAAD0000",
+      "name": "한국산업은행"
+    },
+    {
+      "orgCode": "D1AAAD0000",
+      "name": "한국산업은행"
+    },
+    {
+      "orgCode": "A1AAKA0000",
+      "name": "우정사업본부"
+    },
+    {
+      "orgCode": "B1AAKA0000",
+      "name": "우정사업본부"
+    },
+    {
+      "orgCode": "D1AAKA0000",
+      "name": "우정사업본부"
+    },
+    {
+      "orgCode": "B1AANZ0000",
+      "name": "KB생명보험"
+    },
+    {
+      "orgCode": "M1AAJF0000",
+      "name": "코리아크레딧뷰로(주)"
+    },
+    {
+      "orgCode": "G1AAAE0000",
+      "name": "웨이브파트너스대부 ㈜"
+    },
+    {
+      "orgCode": "ZVAAAF0000",
+      "name": "㈜KB국민카드"
+    },
+    {
+      "orgCode": "D1AAAF0000",
+      "name": "㈜KB국민카드"
+    },
+    {
+      "orgCode": "E1AAAF0000",
+      "name": "㈜KB국민카드"
+    },
+    {
+      "orgCode": "D3AAAF0000",
+      "name": "㈜KB국민카드"
+    },
+    {
+      "orgCode": "B2AAAG0000",
+      "name": "에이아이지손해보험"
+    },
+    {
+      "orgCode": "A3AAKB0000",
+      "name": "하나저축은행"
+    },
+    {
+      "orgCode": "D1AAAH0000",
+      "name": "주식회사 우리카드"
+    },
+    {
+      "orgCode": "ZVAAAH0000",
+      "name": "주식회사 우리카드"
+    },
+    {
+      "orgCode": "B2AANY0000",
+      "name": "흥국화재해상보험"
+    },
+    {
+      "orgCode": "B1AAAI0000",
+      "name": "교보생명보험㈜"
+    },
+    {
+      "orgCode": "D3AAAJ0000",
+      "name": "오케이캐피탈㈜"
+    },
+    {
+      "orgCode": "ZVAAAK0000",
+      "name": "주식회사 한국스탠다드차타드은행"
+    },
+    {
+      "orgCode": "A1AAAK0000",
+      "name": "주식회사 한국스탠다드차타드은행"
+    },
+    {
+      "orgCode": "D1AAAK0000",
+      "name": "주식회사 한국스탠다드차타드은행"
+    },
+    {
+      "orgCode": "B2AAAL0000",
+      "name": "현대해상화재보험㈜"
+    },
+    {
+      "orgCode": "F1AAAM0000",
+      "name": "㈜큰사람커넥트"
+    },
+    {
+      "orgCode": "F1AAAN0000",
+      "name": "KT"
+    },
+    {
+      "orgCode": "A3AAPH0000",
+      "name": "상호저축은행중앙회"
+    },
+    {
+      "orgCode": "A2AAKC0000",
+      "name": "중국은행 주식회사 서울지점"
+    },
+    {
+      "orgCode": "D1AAKC0000",
+      "name": "중국은행 주식회사 서울지점"
+    },
+    {
+      "orgCode": "B1AAAO0000",
+      "name": "흥국생명보험주식회사"
+    },
+    {
+      "orgCode": "C1AAAP0000",
+      "name": "삼성선물"
+    },
+    {
+      "orgCode": "C1AAAQ0000",
+      "name": "유진투자선물㈜"
+    },
+    {
+      "orgCode": "B1AAAR0000",
+      "name": "삼성생명보험㈜"
+    },
+    {
+      "orgCode": "B1AAAS0000",
+      "name": "신한생명보험 주식회사"
+    },
+    {
+      "orgCode": "B2AAAT0000",
+      "name": "롯데손해보험주식회사"
+    },
+    {
+      "orgCode": "F1AAAU0000",
+      "name": "에스케이텔레콤㈜"
+    },
+    {
+      "orgCode": "F1AAAV0000",
+      "name": "에스케이텔링크주식회사"
+    },
+    {
+      "orgCode": "B1AAKD0000",
+      "name": "비엔피파리바카디프생명보험㈜"
+    },
+    {
+      "orgCode": "D3AAAW0000",
+      "name": "알씨아이파이낸셜서비스코리아 주식회사"
+    },
+    {
+      "orgCode": "E1AAAX0000",
+      "name": "주식회사 티머니"
+    },
+    {
+      "orgCode": "B1AAAY0000",
+      "name": "라이나생명보험"
+    },
+    {
+      "orgCode": "A1AAOU0000",
+      "name": "한국주택금융공사"
+    },
+    {
+      "orgCode": "ZVAAAZ0000",
+      "name": "농업협동조합중앙회"
+    },
+    {
+      "orgCode": "A4AAAZ0000",
+      "name": "농업협동조합중앙회"
+    },
+    {
+      "orgCode": "A1AAOV0000",
+      "name": "한국장학재단"
+    },
+    {
+      "orgCode": "D3AAOB0000",
+      "name": "엔에이치농협캐피탈주식회사"
+    },
+    {
+      "orgCode": "D3AABA0000",
+      "name": "무림캐피탈 주식회사"
+    },
+    {
+      "orgCode": "F1AABB0000",
+      "name": "㈜와이엘랜드"
+    },
+    {
+      "orgCode": "D3AABC0000",
+      "name": "폭스바겐파이낸셜서비스코리아 주식회사"
+    },
+    {
+      "orgCode": "B1AABD0000",
+      "name": "아이비케이연금보험㈜"
+    },
+    {
+      "orgCode": "E1AABE0000",
+      "name": "에스케이 플래닛 ㈜"
+    },
+    {
+      "orgCode": "ZVAABE0000",
+      "name": "에스케이 플래닛 ㈜"
+    },
+    {
+      "orgCode": "B2AAOC0000",
+      "name": "농협손해보험 주식회사"
+    },
+    {
+      "orgCode": "B1AABF0000",
+      "name": "농협생명보험 주식회사"
+    },
+    {
+      "orgCode": "D1AABG0000",
+      "name": "농협은행 주식회사"
+    },
+    {
+      "orgCode": "ZVAABG0000",
+      "name": "농협은행 주식회사"
+    },
+    {
+      "orgCode": "A1AABG0000",
+      "name": "농협은행 주식회사"
+    },
+    {
+      "orgCode": "G1AABH0000",
+      "name": "주식회사 제니스자산관리대부"
+    },
+    {
+      "orgCode": "G1AABI0000",
+      "name": "예스자산대부"
+    },
+    {
+      "orgCode": "D1AABJ0000",
+      "name": "하나카드 주식회사"
+    },
+    {
+      "orgCode": "E1AABK0000",
+      "name": "롯데멤버스주식회사"
+    },
+    {
+      "orgCode": "D3AABL0000",
+      "name": "엠캐피탈㈜"
+    },
+    {
+      "orgCode": "G1AABM0000",
+      "name": "한국에셋채권대부 주식회사"
+    },
+    {
+      "orgCode": "E1AAPN0000",
+      "name": "쿠팡페이"
+    },
+    {
+      "orgCode": "E1AABN0000",
+      "name": "주식회사 뱅크샐러드"
+    },
+    {
+      "orgCode": "ZVAABN0000",
+      "name": "주식회사 뱅크샐러드"
+    },
+    {
+      "orgCode": "F1AABO0000",
+      "name": "㈜위너스텔"
+    },
+    {
+      "orgCode": "F1AABP0000",
+      "name": "주식회사 머천드코리아"
+    },
+    {
+      "orgCode": "C1AABQ0000",
+      "name": "이베스트투자증권(주)"
+    },
+    {
+      "orgCode": "C1AABR0000",
+      "name": "키움증권"
+    },
+    {
+      "orgCode": "C1AABS0000",
+      "name": "흥국증권 주식회사"
+    },
+    {
+      "orgCode": "B2AABT0000",
+      "name": "하나손해보험"
+    },
+    {
+      "orgCode": "A3AAKE0000",
+      "name": "(주)예가람저축은행"
+    },
+    {
+      "orgCode": "E1AAKF0000",
+      "name": "㈜쿠콘"
+    },
+    {
+      "orgCode": "ZVAAKF0000",
+      "name": "㈜쿠콘"
+    },
+    {
+      "orgCode": "D3AAOA0000",
+      "name": "현대커머셜주식회사"
+    },
+    {
+      "orgCode": "C1AAJG0000",
+      "name": "디에스투자증권"
+    },
+    {
+      "orgCode": "C1AABU0000",
+      "name": "IBK투자증권"
+    },
+    {
+      "orgCode": "C1AABV0000",
+      "name": "케이프투자증권 주식회사"
+    },
+    {
+      "orgCode": "D3AABW0000",
+      "name": "메리츠캐피탈 주식회사"
+    },
+    {
+      "orgCode": "G1AABX0000",
+      "name": "유미캐피탈대부 주식회사"
+    },
+    {
+      "orgCode": "G1AAKG0000",
+      "name": "엠씨아이대부㈜"
+    },
+    {
+      "orgCode": "B1AAJH0000",
+      "name": "교보라이프플래닛생명"
+    },
+    {
+      "orgCode": "D3AABY0000",
+      "name": "한국투자캐피탈"
+    },
+    {
+      "orgCode": "E1AABZ0000",
+      "name": "코나아이㈜"
+    },
+    {
+      "orgCode": "A4AAPA0000",
+      "name": "새마을금고중앙회"
+    },
+    {
+      "orgCode": "D1AAPA0000",
+      "name": "새마을금고중앙회"
+    },
+    {
+      "orgCode": "C1AAJL0000",
+      "name": "엔에이치선물 주식회사"
+    },
+    {
+      "orgCode": "ZXAACA0000",
+      "name": "한국정보인증주식회사"
+    },
+    {
+      "orgCode": "G1AACB0000",
+      "name": "㈜유노스프레스티지대부"
+    },
+    {
+      "orgCode": "G1AACC0000",
+      "name": "㈜티포스코러페이션대부"
+    },
+    {
+      "orgCode": "G1AACD0000",
+      "name": "테크메이트코리아대부 주식회사"
+    },
+    {
+      "orgCode": "G1AACE0000",
+      "name": "㈜인더스코대부"
+    },
+    {
+      "orgCode": "G1AAKH0000",
+      "name": "옐로우캐피탈대부㈜"
+    },
+    {
+      "orgCode": "F1AACF0000",
+      "name": "(주) 핀샷"
+    },
+    {
+      "orgCode": "E1AACF0000",
+      "name": "(주) 핀샷"
+    },
+    {
+      "orgCode": "G1AACG0000",
+      "name": "웰컴크레디라인대부㈜"
+    },
+    {
+      "orgCode": "G1AACH0000",
+      "name": "웰릭스에프앤아이대부㈜"
+    },
+    {
+      "orgCode": "G1AAPI0000",
+      "name": "한울대부자산관리 "
+    },
+    {
+      "orgCode": "ZVAAKI0000",
+      "name": "(주)핀테크"
+    },
+    {
+      "orgCode": "F1AAJS0000",
+      "name": "한국피엠오"
+    },
+    {
+      "orgCode": "G1AACI0000",
+      "name": "유원캐피탈대부㈜"
+    },
+    {
+      "orgCode": "A3AAKJ0000",
+      "name": "OSB저축은행"
+    },
+    {
+      "orgCode": "M1AACJ0000",
+      "name": "에스씨아이평가정보㈜"
+    },
+    {
+      "orgCode": "A3AAKK0000",
+      "name": "㈜ES저축은행"
+    },
+    {
+      "orgCode": "A3AAKL0000",
+      "name": "푸른저축은행"
+    },
+    {
+      "orgCode": "F1AACK0000",
+      "name": "㈜미디어로그"
+    },
+    {
+      "orgCode": "A4AAKM0000",
+      "name": "신용협동조합중앙회"
+    },
+    {
+      "orgCode": "D1AAKM0000",
+      "name": "신용협동조합중앙회"
+    },
+    {
+      "orgCode": "B2AACL0000",
+      "name": "AXA손해보험주식회사"
+    },
+    {
+      "orgCode": "G1AAOE0000",
+      "name": "(유)유니버셜대부"
+    },
+    {
+      "orgCode": "D3AACM0000",
+      "name": "스타파이낸셜서비시스"
+    },
+    {
+      "orgCode": "C1AACN0000",
+      "name": "유화증권주식회사"
+    },
+    {
+      "orgCode": "C1AAPV0000",
+      "name": "케이티비투자증권"
+    },
+    {
+      "orgCode": "C1AACO0000",
+      "name": "한국증권금융"
+    },
+    {
+      "orgCode": "ZXAACP0000",
+      "name": "(주)코스콤"
+    },
+    {
+      "orgCode": "ZWAACP0000",
+      "name": "(주)코스콤"
+    },
+    {
+      "orgCode": "C1AACQ0000",
+      "name": "엔에이치투자증권㈜"
+    },
+    {
+      "orgCode": "B2AACR0000",
+      "name": "메리츠화재해상보험주식회사"
+    },
+    {
+      "orgCode": "C1AACS0000",
+      "name": "교보증권 ㈜"
+    },
+    {
+      "orgCode": "C1AACT0000",
+      "name": "한국투자증권 (주)"
+    },
+    {
+      "orgCode": "ZVAACU0000",
+      "name": "미래에셋증권 주식회사"
+    },
+    {
+      "orgCode": "C1AACU0000",
+      "name": "미래에셋증권 주식회사"
+    },
+    {
+      "orgCode": "C1AAKN0000",
+      "name": "하나금융투자"
+    },
+    {
+      "orgCode": "ZVAAKN0000",
+      "name": "하나금융투자"
+    },
+    {
+      "orgCode": "C1AAJN0000",
+      "name": "부국증권"
+    },
+    {
+      "orgCode": "C1AAKO0000",
+      "name": "대신증권(주)"
+    },
+    {
+      "orgCode": "C1AAJE0000",
+      "name": "신영증권"
+    },
+    {
+      "orgCode": "C1AACV0000",
+      "name": "㈜상상인증권"
+    },
+    {
+      "orgCode": "M1AACW0000",
+      "name": "나이스평가정보"
+    },
+    {
+      "orgCode": "C1AACX0000",
+      "name": "한양증권㈜"
+    },
+    {
+      "orgCode": "C1AACY0000",
+      "name": "한화투자증권"
+    },
+    {
+      "orgCode": "C1AACZ0000",
+      "name": "메리츠증권㈜"
+    },
+    {
+      "orgCode": "C1AADA0000",
+      "name": "케이비증권 주식회사"
+    },
+    {
+      "orgCode": "C1AADB0000",
+      "name": "유진투자증권㈜"
+    },
+    {
+      "orgCode": "C1AADC0000",
+      "name": "유안타증권 주식회사"
+    },
+    {
+      "orgCode": "C1AADD0000",
+      "name": "현대차증권"
+    },
+    {
+      "orgCode": "ZVAADE0000",
+      "name": "현대캐피탈 주식회사"
+    },
+    {
+      "orgCode": "D3AADE0000",
+      "name": "현대캐피탈 주식회사"
+    },
+    {
+      "orgCode": "C1AAPW0000",
+      "name": "에스케이증권"
+    },
+    {
+      "orgCode": "C1AADF0000",
+      "name": "신한금융투자㈜"
+    },
+    {
+      "orgCode": "F1AADG0000",
+      "name": "케이티파워텔 주식회사"
+    },
+    {
+      "orgCode": "B2AADH0000",
+      "name": "한화손해보험㈜"
+    },
+    {
+      "orgCode": "C1AADI0000",
+      "name": "디비금융투자㈜"
+    },
+    {
+      "orgCode": "B2AADJ0000",
+      "name": "에이스아메리칸화재해상보험㈜"
+    },
+    {
+      "orgCode": "F1AAOG0000",
+      "name": "LG헬로비전"
+    },
+    {
+      "orgCode": "F1AADK0000",
+      "name": "주식회사 케이티스카이라이프"
+    },
+    {
+      "orgCode": "A3AAKP0000",
+      "name": "유진저축은행"
+    },
+    {
+      "orgCode": "B4AADL0000",
+      "name": "서울보증보험㈜"
+    },
+    {
+      "orgCode": "B1AADM0000",
+      "name": "처브라이프생명보험 주식회사"
+    },
+    {
+      "orgCode": "B1AADN0000",
+      "name": "메트라이프생명"
+    },
+    {
+      "orgCode": "B1AAJM0000",
+      "name": "푸르덴셜생명보험"
+    },
+    {
+      "orgCode": "E1AAPC0000",
+      "name": "(주)카카오"
+    },
+    {
+      "orgCode": "D3AADO0000",
+      "name": "롯데카드 주식회사"
+    },
+    {
+      "orgCode": "D1AADO0000",
+      "name": "롯데카드 주식회사"
+    },
+    {
+      "orgCode": "H1AAOZ0000",
+      "name": "㈜케이알앤씨"
+    },
+    {
+      "orgCode": "C1AADP0000",
+      "name": "코리아에셋투자증권"
+    },
+    {
+      "orgCode": "F1AAJP0000",
+      "name": "딜라이브"
+    },
+    {
+      "orgCode": "G1AADQ0000",
+      "name": "㈜에이원대부캐피탈"
+    },
+    {
+      "orgCode": "G1AAKQ0000",
+      "name": "㈜미래크레디트대부"
+    },
+    {
+      "orgCode": "F1AADR0000",
+      "name": "㈜ 에넥스텔레콤"
+    },
+    {
+      "orgCode": "D3AADS0000",
+      "name": "오릭스캐피탈코리아 주식회사"
+    },
+    {
+      "orgCode": "F1AADT0000",
+      "name": "㈜한국케이블텔레콤"
+    },
+    {
+      "orgCode": "G1AADU0000",
+      "name": "주식회사 동그라미파이낸스대부"
+    },
+    {
+      "orgCode": "A3AAKR0000",
+      "name": "NH저축은행"
+    },
+    {
+      "orgCode": "G1AAJJ0000",
+      "name": "제이피인베스트먼트대부"
+    },
+    {
+      "orgCode": "A3AAKS0000",
+      "name": "제이티친애저축은행"
+    },
+    {
+      "orgCode": "A3AAKT0000",
+      "name": "신한저축은행"
+    },
+    {
+      "orgCode": "A3AAKU0000",
+      "name": "웰컴저축은행"
+    },
+    {
+      "orgCode": "ZVAAKU0000",
+      "name": "웰컴저축은행"
+    },
+    {
+      "orgCode": "E1AADV0000",
+      "name": "비바리퍼블리카"
+    },
+    {
+      "orgCode": "ZVAADV0000",
+      "name": "비바리퍼블리카"
+    },
+    {
+      "orgCode": "E1AADW0000",
+      "name": "주식회사 디셈버앤컴퍼니자산운용"
+    },
+    {
+      "orgCode": "G1AAKV0000",
+      "name": "주식회사 두루드림대부"
+    },
+    {
+      "orgCode": "G1AADX0000",
+      "name": "주식회사 어드벤스대부"
+    },
+    {
+      "orgCode": "F1AADY0000",
+      "name": "주식회사와이드모바일"
+    },
+    {
+      "orgCode": "A3AAKW0000",
+      "name": "금화저축은행"
+    },
+    {
+      "orgCode": "A3AAKX0000",
+      "name": "페퍼저축은행"
+    },
+    {
+      "orgCode": "A3AAKY0000",
+      "name": "안양저축은행"
+    },
+    {
+      "orgCode": "A3AAKZ0000",
+      "name": "부림저축은행"
+    },
+    {
+      "orgCode": "F1AAJQ0000",
+      "name": "세종텔레콤 주식회사"
+    },
+    {
+      "orgCode": "D3AADZ0000",
+      "name": "케이비캐피탈 주식회사"
+    },
+    {
+      "orgCode": "A3AALA0000",
+      "name": "평택저축은행"
+    },
+    {
+      "orgCode": "A3AALB0000",
+      "name": "삼정저축은행"
+    },
+    {
+      "orgCode": "A3AALC0000",
+      "name": "세람저축은행"
+    },
+    {
+      "orgCode": "A3AALD0000",
+      "name": "상상인저축은행"
+    },
+    {
+      "orgCode": "A3AALE0000",
+      "name": "안국저축은행"
+    },
+    {
+      "orgCode": "F1AAOJ0000",
+      "name": "아름방송네트워크"
+    },
+    {
+      "orgCode": "ZXAAEA0000",
+      "name": "사단법인 금융결제원"
+    },
+    {
+      "orgCode": "ZWAAEA0000",
+      "name": "사단법인 금융결제원"
+    },
+    {
+      "orgCode": "A3AALF0000",
+      "name": "제이티저축은행"
+    },
+    {
+      "orgCode": "G1AAEB0000",
+      "name": "주식회사경인대부"
+    },
+    {
+      "orgCode": "A3AALG0000",
+      "name": "영진저축은행"
+    },
+    {
+      "orgCode": "A3AANX0000",
+      "name": "키움저축은행"
+    },
+    {
+      "orgCode": "A3AALH0000",
+      "name": "한화저축은행"
+    },
+    {
+      "orgCode": "D3AAEC0000",
+      "name": "씨앤에이치캐피탈㈜"
+    },
+    {
+      "orgCode": "A3AALI0000",
+      "name": "인천저축은행"
+    },
+    {
+      "orgCode": "A3AALK0000",
+      "name": "모아저축은행"
+    },
+    {
+      "orgCode": "A3AALL0000",
+      "name": "인성저축은행"
+    },
+    {
+      "orgCode": "F1AAOL0000",
+      "name": "남인천방송㈜"
+    },
+    {
+      "orgCode": "A3AALM0000",
+      "name": "남양저축은행"
+    },
+    {
+      "orgCode": "A3AALN0000",
+      "name": "융창저축은행"
+    },
+    {
+      "orgCode": "F1AAED0000",
+      "name": "주식회사 케이티엠모바일"
+    },
+    {
+      "orgCode": "D2AAOD0000",
+      "name": "한화솔루션(주) 갤러리아부문"
+    },
+    {
+      "orgCode": "F1AAOS0000",
+      "name": "㈜인스코리아"
+    },
+    {
+      "orgCode": "F1AAEE0000",
+      "name": "㈜유니컴즈"
+    },
+    {
+      "orgCode": "D3AAEF0000",
+      "name": "롯데오토리스㈜"
+    },
+    {
+      "orgCode": "G1AAEG0000",
+      "name": "대한와이디대부㈜"
+    },
+    {
+      "orgCode": "G1AAEH0000",
+      "name": "(유)이코플러스대부"
+    },
+    {
+      "orgCode": "F1AAEI0000",
+      "name": "주식회사 에이프러스"
+    },
+    {
+      "orgCode": "G1AAEJ0000",
+      "name": "㈜조은리츠대부금융"
+    },
+    {
+      "orgCode": "ZVAALO0000",
+      "name": "(주)핀다"
+    },
+    {
+      "orgCode": "ZWAAAA0000",
+      "name": "한국신용정보원"
+    },
+    {
+      "orgCode": "ZZAAAA0000",
+      "name": "한국신용정보원(종합포털)"
+    },
+    {
+      "orgCode": "D3AAJO0000",
+      "name": "웰릭스캐피탈"
+    },
+    {
+      "orgCode": "D3AAEK0000",
+      "name": "볼보파이낸셜서비스코리아 주식회사"
+    },
+    {
+      "orgCode": "L1AAEL0000",
+      "name": "주식회사 어니스트펀드"
+    },
+    {
+      "orgCode": "ZVAAEM0000",
+      "name": "(주)우리은행"
+    },
+    {
+      "orgCode": "A1AAEM0000",
+      "name": "(주)우리은행"
+    },
+    {
+      "orgCode": "A3AALP0000",
+      "name": "조은저축은행"
+    },
+    {
+      "orgCode": "B2AAEN0000",
+      "name": "디비손해보험 주식회사"
+    },
+    {
+      "orgCode": "A3AALQ0000",
+      "name": "민국저축은행"
+    },
+    {
+      "orgCode": "F1AAEO0000",
+      "name": "주식회사 국민은행"
+    },
+    {
+      "orgCode": "ZVAAEO0000",
+      "name": "주식회사 국민은행"
+    },
+    {
+      "orgCode": "A1AAEO0000",
+      "name": "주식회사 국민은행"
+    },
+    {
+      "orgCode": "D3AAEP0000",
+      "name": "제이티캐피탈"
+    },
+    {
+      "orgCode": "A1AAEQ0000",
+      "name": "중소기업은행"
+    },
+    {
+      "orgCode": "D1AAEQ0000",
+      "name": "중소기업은행"
+    },
+    {
+      "orgCode": "ZVAAER0000",
+      "name": "주식회사 신한은행"
+    },
+    {
+      "orgCode": "A1AAER0000",
+      "name": "주식회사 신한은행"
+    },
+    {
+      "orgCode": "A1AAES0000",
+      "name": "주식회사 하나은행"
+    },
+    {
+      "orgCode": "B1AAET0000",
+      "name": "DB생명보험주식회사"
+    },
+    {
+      "orgCode": "B1AAEU0000",
+      "name": "동양생명보험(주)"
+    },
+    {
+      "orgCode": "D1AAEV0000",
+      "name": "삼성카드주식회사"
+    },
+    {
+      "orgCode": "B2AAEW0000",
+      "name": "삼성화재해상보험주식회사"
+    },
+    {
+      "orgCode": "ZVAAEX0000",
+      "name": "신한카드 주식회사"
+    },
+    {
+      "orgCode": "D1AAEX0000",
+      "name": "신한카드 주식회사"
+    },
+    {
+      "orgCode": "D3AAEX0000",
+      "name": "신한카드 주식회사"
+    },
+    {
+      "orgCode": "E1AAEX0000",
+      "name": "신한카드 주식회사"
+    },
+    {
+      "orgCode": "B2AALR0000",
+      "name": "주식회사 케이비손해보험"
+    },
+    {
+      "orgCode": "C1AAEY0000",
+      "name": "삼성증권"
+    },
+    {
+      "orgCode": "D3AAEZ0000",
+      "name": "산은캐피탈주식회사"
+    },
+    {
+      "orgCode": "D3AAFA0000",
+      "name": "디비캐피탈 주식회사 "
+    },
+    {
+      "orgCode": "C1AAFB0000",
+      "name": "브이아이금융투자 주식회사"
+    },
+    {
+      "orgCode": "A2AALS0000",
+      "name": "중국공상은행"
+    },
+    {
+      "orgCode": "G1AAPE0000",
+      "name": "비케이자산관리대부"
+    },
+    {
+      "orgCode": "G1AAFC0000",
+      "name": "㈜ 태강대부"
+    },
+    {
+      "orgCode": "G1AAFD0000",
+      "name": "엠메이드대부 유한회사"
+    },
+    {
+      "orgCode": "G1AAFE0000",
+      "name": "유니애대부유한회사"
+    },
+    {
+      "orgCode": "F1AAFF0000",
+      "name": "더원플랫폼"
+    },
+    {
+      "orgCode": "E1AAOF0000",
+      "name": "한국선불카드"
+    },
+    {
+      "orgCode": "G1AAFG0000",
+      "name": "(주)국민채권관리대부"
+    },
+    {
+      "orgCode": "F1AAOH0000",
+      "name": "㈜에스원"
+    },
+    {
+      "orgCode": "G1AAJK0000",
+      "name": "신영자산관리대부(유)"
+    },
+    {
+      "orgCode": "G1AAFH0000",
+      "name": "주식회사 바로크레디트대부"
+    },
+    {
+      "orgCode": "G1AAFI0000",
+      "name": "주식회사 한빛자산관리대부"
+    },
+    {
+      "orgCode": "A3AALT0000",
+      "name": "애큐온저축은행"
+    },
+    {
+      "orgCode": "A3AALU0000",
+      "name": "스카이저축은행"
+    },
+    {
+      "orgCode": "ZWAALV0000",
+      "name": "(사)한국정보통신진흥협회"
+    },
+    {
+      "orgCode": "D3AAJX0000",
+      "name": "비엠더블유파이낸셜서비스코리아"
+    },
+    {
+      "orgCode": "D2AAPG0000",
+      "name": "주식회사 현대백화점"
+    },
+    {
+      "orgCode": "F1AAFJ0000",
+      "name": "㈜미니게이트"
+    },
+    {
+      "orgCode": "E1AAFK0000",
+      "name": "주식회사 티몬"
+    },
+    {
+      "orgCode": "D3AAFL0000",
+      "name": "㈜에코캐피탈"
+    },
+    {
+      "orgCode": "A3AALW0000",
+      "name": "대신저축은행"
+    },
+    {
+      "orgCode": "G1AAFM0000",
+      "name": "이든에셋대부 유한회사"
+    },
+    {
+      "orgCode": "A3AALX0000",
+      "name": "㈜오케이저축은행"
+    },
+    {
+      "orgCode": "G1AAPL0000",
+      "name": "농업협동조합자산관리회사"
+    },
+    {
+      "orgCode": "F1AAFN0000",
+      "name": "㈜파인디지털"
+    },
+    {
+      "orgCode": "D1AAFO0000",
+      "name": "현대카드 주식회사"
+    },
+    {
+      "orgCode": "ZVAAFO0000",
+      "name": "현대카드 주식회사"
+    },
+    {
+      "orgCode": "B1AAFP0000",
+      "name": "에이비엘생명보험㈜"
+    },
+    {
+      "orgCode": "D1AAFQ0000",
+      "name": "비씨카드 주식회사"
+    },
+    {
+      "orgCode": "ZVAAFQ0000",
+      "name": "비씨카드 주식회사"
+    },
+    {
+      "orgCode": "A3AALY0000",
+      "name": "유안타저축은행㈜"
+    },
+    {
+      "orgCode": "A3AALZ0000",
+      "name": "바로저축은행"
+    },
+    {
+      "orgCode": "G1AAFR0000",
+      "name": "㈜ 리드코프"
+    },
+    {
+      "orgCode": "B1AAFS0000",
+      "name": "하나생명보험"
+    },
+    {
+      "orgCode": "F1AAFT0000",
+      "name": "SK브로드밴드㈜"
+    },
+    {
+      "orgCode": "F1AAOQ0000",
+      "name": "㈜씨앤에스링크"
+    },
+    {
+      "orgCode": "G1AAFU0000",
+      "name": "오케이에프엔아이대부"
+    },
+    {
+      "orgCode": "G1AAMA0000",
+      "name": "(주)하트캐싱대부"
+    },
+    {
+      "orgCode": "G1AAFV0000",
+      "name": "앤알캐피탈대부㈜"
+    },
+    {
+      "orgCode": "G1AAMB0000",
+      "name": "㈜씨씨콜렉션대부"
+    },
+    {
+      "orgCode": "D3AAFW0000",
+      "name": "(주)애큐온캐피탈"
+    },
+    {
+      "orgCode": "D3AAFX0000",
+      "name": "ES파이낸셜"
+    },
+    {
+      "orgCode": "ZVAAFY0000",
+      "name": "주식회사 민앤지"
+    },
+    {
+      "orgCode": "F1AAFZ0000",
+      "name": "(주)프리텔레콤"
+    },
+    {
+      "orgCode": "G1AAGA0000",
+      "name": "주식회사 베리타스자산대부"
+    },
+    {
+      "orgCode": "G1AAJV0000",
+      "name": "현대베리타스투자1호대부"
+    },
+    {
+      "orgCode": "G1AAGB0000",
+      "name": "㈜신안어소시에이츠대부"
+    },
+    {
+      "orgCode": "F1AAOM0000",
+      "name": "㈜씨엔커뮤니케이션"
+    },
+    {
+      "orgCode": "A3AAMC0000",
+      "name": "KB저축은행"
+    },
+    {
+      "orgCode": "G1AAMD0000",
+      "name": "(주) 벤투라인베스트먼트대부"
+    },
+    {
+      "orgCode": "A4AAGC0000",
+      "name": "산림조합중앙회"
+    },
+    {
+      "orgCode": "D1AAGC0000",
+      "name": "산림조합중앙회"
+    },
+    {
+      "orgCode": "A4AAGD0000",
+      "name": "수산업협동조합중앙회"
+    },
+    {
+      "orgCode": "D3AAGE0000",
+      "name": "하나캐피탈㈜"
+    },
+    {
+      "orgCode": "A3AAME0000",
+      "name": "키움예스저축은행"
+    },
+    {
+      "orgCode": "E1AAGF0000",
+      "name": "나이스정보통신㈜"
+    },
+    {
+      "orgCode": "G1AAGG0000",
+      "name": "㈜카길애그리퓨리나"
+    },
+    {
+      "orgCode": "A3AAMF0000",
+      "name": "더케이저축은행"
+    },
+    {
+      "orgCode": "D3AAMG0000",
+      "name": "㈜아이비케이캐피탈"
+    },
+    {
+      "orgCode": "E1AAGH0000",
+      "name": "에스케이커뮤니케이션즈"
+    },
+    {
+      "orgCode": "F1AAGI0000",
+      "name": "LG유플러스"
+    },
+    {
+      "orgCode": "F1AAGJ0000",
+      "name": "드림라인㈜"
+    },
+    {
+      "orgCode": "E1AAGK0000",
+      "name": "(주)인터파크"
+    },
+    {
+      "orgCode": "F1AAGL0000",
+      "name": "스마텔"
+    },
+    {
+      "orgCode": "F1AAGM0000",
+      "name": "주식회사 코드모바일"
+    },
+    {
+      "orgCode": "G1AAGN0000",
+      "name": "아프로파이낸셜대부"
+    },
+    {
+      "orgCode": "F1AAGO0000",
+      "name": "㈜앤알커뮤니케이션"
+    },
+    {
+      "orgCode": "E1AAPB0000",
+      "name": "KG모빌리언스"
+    },
+    {
+      "orgCode": "E1AAGP0000",
+      "name": "이베이코리아 유한책임회사"
+    },
+    {
+      "orgCode": "H1AAOX0000",
+      "name": "한국자산관리공사"
+    },
+    {
+      "orgCode": "G1AAGQ0000",
+      "name": "애니원캐피탈대부㈜"
+    },
+    {
+      "orgCode": "G1AAGR0000",
+      "name": "산와대부주식회사"
+    },
+    {
+      "orgCode": "D3AAPX0000",
+      "name": "메르세데스벤츠파이낸셜서비스코리아"
+    },
+    {
+      "orgCode": "F1AAJR0000",
+      "name": "주식회사 니즈텔레콤"
+    },
+    {
+      "orgCode": "G1AAGS0000",
+      "name": "액트캐쉬대부"
+    },
+    {
+      "orgCode": "E1AAGT0000",
+      "name": "주식회사 오케이인베스트먼트파트너스"
+    },
+    {
+      "orgCode": "C1AAGU0000",
+      "name": "카카오페이증권"
+    },
+    {
+      "orgCode": "H1AAOY0000",
+      "name": "(주)국민행복기금"
+    },
+    {
+      "orgCode": "D3AAGV0000",
+      "name": "주식회사 디지비캐피탈"
+    },
+    {
+      "orgCode": "F1AAGW0000",
+      "name": "에이씨앤코리아"
+    },
+    {
+      "orgCode": "E1AAPU0000",
+      "name": "구글페이먼트코리아"
+    },
+    {
+      "orgCode": "G1AAGX0000",
+      "name": "제일호더블류홀딩스자산대부"
+    },
+    {
+      "orgCode": "D3AAMH0000",
+      "name": "한국자산캐피탈"
+    },
+    {
+      "orgCode": "G1AAGY0000",
+      "name": "이오스자산관리제일차대부"
+    },
+    {
+      "orgCode": "B2AAGZ0000",
+      "name": "엠지손해보험주식회사"
+    },
+    {
+      "orgCode": "F1AAOR0000",
+      "name": "엔티온텔레콤 주식회사"
+    },
+    {
+      "orgCode": "A3AAMI0000",
+      "name": "CK저축은행"
+    },
+    {
+      "orgCode": "G1AAJT0000",
+      "name": "시소캐피탈대부"
+    },
+    {
+      "orgCode": "G1AAHA0000",
+      "name": "와이티홀딩스대부 주식회사"
+    },
+    {
+      "orgCode": "G1AAMJ0000",
+      "name": "비콜렉트대부㈜"
+    },
+    {
+      "orgCode": "G1AAOT0000",
+      "name": "(유)디에이치대부금융"
+    },
+    {
+      "orgCode": "D3AAHB0000",
+      "name": "도이치파이낸셜주식회사"
+    },
+    {
+      "orgCode": "G1AAJW0000",
+      "name": "외환베리타스제2차대부"
+    },
+    {
+      "orgCode": "G1AAHC0000",
+      "name": "㈜오케이파이낸셜대부"
+    },
+    {
+      "orgCode": "E1AAPJ0000",
+      "name": "(주)글로벌머니익스프레스"
+    },
+    {
+      "orgCode": "E1AAJI0000",
+      "name": "핀크"
+    },
+    {
+      "orgCode": "ZVAAJI0000",
+      "name": "핀크"
+    },
+    {
+      "orgCode": "A3AAMK0000",
+      "name": "우리금융저축은행"
+    },
+    {
+      "orgCode": "A3AAPO0000",
+      "name": "청주저축은행"
+    },
+    {
+      "orgCode": "A3AAPP0000",
+      "name": "한성저축은행"
+    },
+    {
+      "orgCode": "ZVAAML0000",
+      "name": "팀윙크"
+    },
+    {
+      "orgCode": "F1AAHD0000",
+      "name": "주식회사 씨씨에스충북방송"
+    },
+    {
+      "orgCode": "A3AAPQ0000",
+      "name": "대명저축은행"
+    },
+    {
+      "orgCode": "B1AAHE0000",
+      "name": "미래에셋생명보험 ㈜"
+    },
+    {
+      "orgCode": "A1AAHE0000",
+      "name": "미래에셋생명보험 ㈜"
+    },
+    {
+      "orgCode": "F1AAHF0000",
+      "name": "㈜씨엠비"
+    },
+    {
+      "orgCode": "D3AAMM0000",
+      "name": "우리금융캐피탈"
+    },
+    {
+      "orgCode": "A3AAMN0000",
+      "name": "상상인플러스저축은행"
+    },
+    {
+      "orgCode": "A3AAMO0000",
+      "name": "아산저축은행"
+    },
+    {
+      "orgCode": "A3AAMP0000",
+      "name": "㈜오투저축은행"
+    },
+    {
+      "orgCode": "D3AAHG0000",
+      "name": "한국캐피탈㈜"
+    },
+    {
+      "orgCode": "D3AAHH0000",
+      "name": "주식회사 케이카캐피탈"
+    },
+    {
+      "orgCode": "G1AAHI0000",
+      "name": "엠에스아이대부"
+    },
+    {
+      "orgCode": "F1AAOO0000",
+      "name": "㈜레그원"
+    },
+    {
+      "orgCode": "D3AAHJ0000",
+      "name": "주식회사 카카오뱅크"
+    },
+    {
+      "orgCode": "E1AAHJ0000",
+      "name": "주식회사 카카오뱅크"
+    },
+    {
+      "orgCode": "A1AAHJ0000",
+      "name": "주식회사 카카오뱅크"
+    },
+    {
+      "orgCode": "A3AAMQ0000",
+      "name": "삼호저축은행"
+    },
+    {
+      "orgCode": "D3AAHK0000",
+      "name": "메이슨캐피탈㈜"
+    },
+    {
+      "orgCode": "F1AAHL0000",
+      "name": "금강방송주식회사"
+    },
+    {
+      "orgCode": "ZVAAHM0000",
+      "name": "보맵 주식회사"
+    },
+    {
+      "orgCode": "A3AAMR0000",
+      "name": "스마트저축은행"
+    },
+    {
+      "orgCode": "C1AAPD0000",
+      "name": "우리종합금융주식회사"
+    },
+    {
+      "orgCode": "A3AAMS0000",
+      "name": "센트럴저축은행"
+    },
+    {
+      "orgCode": "A3AAMT0000",
+      "name": "더블저축은행"
+    },
+    {
+      "orgCode": "B1AAMU0000",
+      "name": "KDB생명보험"
+    },
+    {
+      "orgCode": "A3AAMV0000",
+      "name": "동양저축은행"
+    },
+    {
+      "orgCode": "ZVAAMW0000",
+      "name": "㈜광주은행"
+    },
+    {
+      "orgCode": "A1AAMW0000",
+      "name": "㈜광주은행"
+    },
+    {
+      "orgCode": "D1AAMW0000",
+      "name": "㈜광주은행"
+    },
+    {
+      "orgCode": "E1AAMW0000",
+      "name": "㈜광주은행"
+    },
+    {
+      "orgCode": "A3AAMX0000",
+      "name": "대한저축은행"
+    },
+    {
+      "orgCode": "F1AAHN0000",
+      "name": "(주)한국케이블TV 광주방송"
+    },
+    {
+      "orgCode": "D3AAHO0000",
+      "name": "미래에셋캐피탈㈜"
+    },
+    {
+      "orgCode": "A3AAMY0000",
+      "name": "㈜한국투자저축은행"
+    },
+    {
+      "orgCode": "A3AAMZ0000",
+      "name": "스타저축은행"
+    },
+    {
+      "orgCode": "D1AAHP0000",
+      "name": "㈜전북은행"
+    },
+    {
+      "orgCode": "A1AAHP0000",
+      "name": "㈜전북은행"
+    },
+    {
+      "orgCode": "A1AAPF0000",
+      "name": "토스뱅크 주식회사"
+    },
+    {
+      "orgCode": "ZVAAHQ0000",
+      "name": "(주)해빗팩토리"
+    },
+    {
+      "orgCode": "A3AANA0000",
+      "name": "엠에스저축은행"
+    },
+    {
+      "orgCode": "A3AANB0000",
+      "name": "대백저축은행"
+    },
+    {
+      "orgCode": "D3AAHR0000",
+      "name": "제이비우리캐피탈㈜"
+    },
+    {
+      "orgCode": "A1AAHS0000",
+      "name": "㈜대구은행"
+    },
+    {
+      "orgCode": "D1AAHS0000",
+      "name": "㈜대구은행"
+    },
+    {
+      "orgCode": "E1AAHS0000",
+      "name": "㈜대구은행"
+    },
+    {
+      "orgCode": "E1AAPY0000",
+      "name": "디지비유페이"
+    },
+    {
+      "orgCode": "F1AAHT0000",
+      "name": "한국케이블티브이푸른방송㈜"
+    },
+    {
+      "orgCode": "G1AAHU0000",
+      "name": "㈜인케어파트너스대부"
+    },
+    {
+      "orgCode": "A3AANC0000",
+      "name": "유니온저축은행"
+    },
+    {
+      "orgCode": "A3AAPR0000",
+      "name": "대원저축은행"
+    },
+    {
+      "orgCode": "A3AAND0000",
+      "name": "대아저축은행"
+    },
+    {
+      "orgCode": "A3AANE0000",
+      "name": "머스트삼일저축은행"
+    },
+    {
+      "orgCode": "A3AANF0000",
+      "name": "참저축은행"
+    },
+    {
+      "orgCode": "A3AANG0000",
+      "name": "드림저축은행"
+    },
+    {
+      "orgCode": "D3AAHV0000",
+      "name": "에스와이오토캐피탈"
+    },
+    {
+      "orgCode": "A3AANH0000",
+      "name": "라온저축은행"
+    },
+    {
+      "orgCode": "A3AAPT0000",
+      "name": "오성저축은행"
+    },
+    {
+      "orgCode": "C1AAHW0000",
+      "name": "토스증권"
+    },
+    {
+      "orgCode": "A1AAHX0000",
+      "name": "수협은행"
+    },
+    {
+      "orgCode": "D1AAHX0000",
+      "name": "수협은행"
+    },
+    {
+      "orgCode": "E1AAHY0000",
+      "name": "네이버파이낸셜㈜"
+    },
+    {
+      "orgCode": "ZVAAHY0000",
+      "name": "네이버파이낸셜㈜"
+    },
+    {
+      "orgCode": "E1AAHZ0000",
+      "name": "웰컴페이먼츠"
+    },
+    {
+      "orgCode": "E1AAIA0000",
+      "name": "주식회사 카카오페이"
+    },
+    {
+      "orgCode": "ZVAAIB0000",
+      "name": "주식회사 한국금융솔루션"
+    },
+    {
+      "orgCode": "F1AAIC0000",
+      "name": "주식회사 현대에이치씨엔"
+    },
+    {
+      "orgCode": "F1AAOP0000",
+      "name": "주식회사 원텔레콤"
+    },
+    {
+      "orgCode": "G1AAID0000",
+      "name": "이엘자산관리대부 유한회사"
+    },
+    {
+      "orgCode": "E1AAIE0000",
+      "name": "엔에이치엔페이코 주식회사"
+    },
+    {
+      "orgCode": "ZVAAIE0000",
+      "name": "엔에이치엔페이코 주식회사"
+    },
+    {
+      "orgCode": "B2AAIF0000",
+      "name": "캐롯손해보험(주)"
+    },
+    {
+      "orgCode": "F1AAIG0000",
+      "name": "주식회사 보스그룹"
+    },
+    {
+      "orgCode": "F1AAON0000",
+      "name": "드림에이치앤비(휴엘컴퍼니)"
+    },
+    {
+      "orgCode": "F1AAIH0000",
+      "name": "주식회사 인스코비"
+    },
+    {
+      "orgCode": "A3AANI0000",
+      "name": "(주)흥국저축은행"
+    },
+    {
+      "orgCode": "A3AANJ0000",
+      "name": "국제저축은행"
+    },
+    {
+      "orgCode": "A3AANK0000",
+      "name": "고려저축은행"
+    },
+    {
+      "orgCode": "D1AAII0000",
+      "name": "부산은행"
+    },
+    {
+      "orgCode": "A1AAII0000",
+      "name": "부산은행"
+    },
+    {
+      "orgCode": "E1AAII0000",
+      "name": "부산은행"
+    },
+    {
+      "orgCode": "B1AANL0000",
+      "name": "㈜DGB생명보험"
+    },
+    {
+      "orgCode": "C1AAIJ0000",
+      "name": "하이투자증권"
+    },
+    {
+      "orgCode": "C1AAIK0000",
+      "name": "(주) 비엔케이투자증권"
+    },
+    {
+      "orgCode": "A3AANM0000",
+      "name": "우리저축은행"
+    },
+    {
+      "orgCode": "D3AAIL0000",
+      "name": "비엔케이캐피탈㈜"
+    },
+    {
+      "orgCode": "A3AANN0000",
+      "name": "㈜디에이치저축은행"
+    },
+    {
+      "orgCode": "F1AAOI0000",
+      "name": "㈜아이즈비전"
+    },
+    {
+      "orgCode": "A3AANO0000",
+      "name": "(주)에스앤티저축은행"
+    },
+    {
+      "orgCode": "A1AAIM0000",
+      "name": "주식회사 경남은행"
+    },
+    {
+      "orgCode": "D3AAIM0000",
+      "name": "주식회사 경남은행"
+    },
+    {
+      "orgCode": "D1AAIM0000",
+      "name": "주식회사 경남은행"
+    },
+    {
+      "orgCode": "F1AAIN0000",
+      "name": "제이씨엔울산중앙방송㈜"
+    },
+    {
+      "orgCode": "A3AANP0000",
+      "name": "IBK저축은행"
+    },
+    {
+      "orgCode": "A3AANQ0000",
+      "name": "조흥저축은행"
+    },
+    {
+      "orgCode": "A3AANR0000",
+      "name": "진주저축은행"
+    },
+    {
+      "orgCode": "F1AAIO0000",
+      "name": "(주)서경방송"
+    },
+    {
+      "orgCode": "A3AANS0000",
+      "name": "솔브레인저축은행"
+    },
+    {
+      "orgCode": "A1AAIP0000",
+      "name": "주식회사 제주은행"
+    },
+    {
+      "orgCode": "F1AAOK0000",
+      "name": "㈜KCTV제주방송"
+    },
+    {
+      "orgCode": "A3AAPS0000",
+      "name": "BNK저축은행"
+    },
+    {
+      "orgCode": "E1AAIQ0000",
+      "name": "㈜ 센트비(SENTBE)"
+    },
+    {
+      "orgCode": "A3AANT0000",
+      "name": "동원제일저축은행"
+    },
+    {
+      "orgCode": "ZZAAIR0000",
+      "name": "금융보안원"
+    },
+    {
+      "orgCode": "G1AAIS0000",
+      "name": "포도송이자산관리대부 주식회사"
+    },
+    {
+      "orgCode": "G1AAIT0000",
+      "name": "비에스아이대부"
+    },
+    {
+      "orgCode": "E1AAIU0000",
+      "name": "블루월넛 주식회사"
+    },
+    {
+      "orgCode": "E1AAIV0000",
+      "name": "㈜트래블월렛"
+    },
+    {
+      "orgCode": "F1AAIW0000",
+      "name": "(주)베이콘"
+    },
+    {
+      "orgCode": "G1AANU0000",
+      "name": "주식회사 굿모닝자산관리대부"
+    },
+    {
+      "orgCode": "A1AAOW0000",
+      "name": "서민금융진흥원"
+    },
+    {
+      "orgCode": "B1AAIX0000",
+      "name": "에이아이에이생명보험 주식회사"
+    },
+    {
+      "orgCode": "E1AAPK0000",
+      "name": "한패스"
+    },
+    {
+      "orgCode": "G1AANV0000",
+      "name": "주식회사 테라윈자산대부"
+    },
+    {
+      "orgCode": "ZVAAIY0000",
+      "name": "주식회사 한국신용데이터"
+    },
+    {
+      "orgCode": "F1AAIZ0000",
+      "name": "주식회사 스테이지파이브"
+    },
+    {
+      "orgCode": "E1AAJA0000",
+      "name": "11번가(주)"
+    },
+    {
+      "orgCode": "A1AAJB0000",
+      "name": "주식회사 케이뱅크은행"
+    },
+    {
+      "orgCode": "G1AANW0000",
+      "name": "주식회사 대한채권관리대부"
+    },
+    {
+      "orgCode": "D3AAJC0000",
+      "name": "키움캐피탈"
+    },
+    {
+      "orgCode": "E1AAPM0000",
+      "name": "SSG닷컴"
+    },
+    {
+      "orgCode": "F1AAJD0000",
+      "name": "주식회사 조이텔"
+    }
+  ]
+}
