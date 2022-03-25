@@ -44,14 +44,13 @@ Widget mainPage(String title) {
             ],
           ),
           ElevatedButton(
-              onPressed: () => Get.toNamed('/isolate'),
-              child: const Text("Isolate"),
+            onPressed: () => Get.toNamed('/isolate'),
+            child: const Text("Isolate"),
           ),
           ElevatedButton(
             onPressed: () => Get.toNamed('/async'),
             child: const Text("Async"),
           ),
-          const Text("This is Async"),
         ],
       ),
     ),
@@ -87,5 +86,53 @@ Widget isolatePage() {
       },
     ),
     backgroundColor: Colors.white,
+  );
+}
+
+Widget asyncPage() {
+  return Scaffold(
+    appBar: AppBar(
+      title: const Text("Async Test"),
+    ),
+    body: SingleChildScrollView(
+      child: Column(
+        children: [
+          FutureBuilder(
+            future: Future.delayed(const Duration(seconds: 3), () {
+              return Image.network(
+                  'https://flutter.github.io/assets-for-api-docs/assets/widgets/owl-2.jpg');
+            }),
+            builder: (BuildContext context, AsyncSnapshot snapshot) {
+              if (snapshot.hasData) {
+                return Container(
+                  child: snapshot.data,
+                );
+              } else {
+                return const Center(
+                  child: CircularProgressIndicator(),
+                );
+              }
+            },
+          ),
+          FutureBuilder(
+            future: Future.delayed(const Duration(seconds: 5), () {
+              return Image.network(
+                  'https://flutter.github.io/assets-for-api-docs/assets/widgets/owl.jpg');
+            }),
+            builder: (BuildContext context, AsyncSnapshot snapshot) {
+              if (snapshot.hasData) {
+                return Container(
+                  child: snapshot.data,
+                );
+              } else {
+                return const Center(
+                  child: CircularProgressIndicator(),
+                );
+              }
+            },
+          ),
+        ],
+      ),
+    ),
   );
 }
