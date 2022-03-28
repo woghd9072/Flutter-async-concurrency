@@ -11,22 +11,3 @@ class MyHomePage extends StatelessWidget {
     return mainPage(title);
   }
 }
-
-// TODO
-class AsyncPage extends StatelessWidget {
-  const AsyncPage({Key? key}) : super(key: key);
-
-  @override
-  Widget build(BuildContext context) {
-    return asyncPage();
-  }
-}
-
-class IsolatePage extends StatelessWidget {
-  const IsolatePage({Key? key}) : super(key: key);
-
-  @override
-  Widget build(BuildContext context) {
-    return isolatePage();
-  }
-}
