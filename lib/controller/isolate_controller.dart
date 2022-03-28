@@ -11,6 +11,14 @@ class IsolateController extends GetxController {
     return rootBundle.loadString("assets/sample.json");
   }
 
+  Future<List> parseJson() async {
+    var json = await _loadJson();
+
+    HashMap<String, List<dynamic>> jsonData = HashMap.from(jsonDecode(json));
+    var list = jsonData["organization"];
+    return list!;
+  }
+
   Future<List> loadJsonInAnotherIsolate() async {
     var json = await _loadJson();
 
