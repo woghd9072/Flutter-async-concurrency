@@ -1,11 +1,11 @@
 import 'package:async_concurrency_demo/controller/counter_controller.dart';
 import 'package:async_concurrency_demo/controller/isolate_controller.dart';
-import 'package:async_concurrency_demo/model/organization.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
 Widget mainPage(String title) {
   final CounterController counterController = Get.put(CounterController());
+  final IsolateController isolateController = Get.put(IsolateController());
 
   return Scaffold(
     appBar: AppBar(
@@ -44,11 +44,19 @@ Widget mainPage(String title) {
             ],
           ),
           ElevatedButton(
-            onPressed: () => Get.toNamed('/isolate'),
+            onPressed: () async {
+              var list = await isolateController.loadJsonInAnotherIsolate();
+              counterController.count.value += list.length;
+            },
             child: const Text("Isolate"),
           ),
           ElevatedButton(
-            onPressed: () => Get.toNamed('/async'),
+            onPressed: () {
+              Future.delayed(const Duration(seconds: 3), () async {
+                var list = await isolateController.parseJson();
+                counterController.count.value += list.length;
+              });
+            },
             child: const Text("Async"),
           ),
         ],
@@ -57,82 +65,3 @@ Widget mainPage(String title) {
   );
 }
 
-Widget isolatePage() {
-  final IsolateController isolateController = Get.put(IsolateController());
-
-  return Scaffold(
-    appBar: AppBar(
-      title: const Text("Isolate Test"),
-    ),
-    // Isolate 분리
-    body: FutureBuilder(
-      future: isolateController.loadJsonInAnotherIsolate(),
-      builder: (BuildContext context, AsyncSnapshot snapshot) {
-        if (snapshot.hasData) {
-          List list = snapshot.data;
-          return ListView.builder(
-            itemCount: list.length,
-            itemBuilder: (BuildContext context, int index) {
-              var org = Organization.fromJson(list[index]);
-              return ListTile(
-                title: Text("${org.orgName}"),
-                subtitle: Text("${org.orgCode}"),
-              );
-            },
-          );
-        } else {
-          return const CircularProgressIndicator();
-        }
-      },
-    ),
-    backgroundColor: Colors.white,
-  );
-}
-
-Widget asyncPage() {
-  return Scaffold(
-    appBar: AppBar(
-      title: const Text("Async Test"),
-    ),
-    body: SingleChildScrollView(
-      child: Column(
-        children: [
-          FutureBuilder(
-            future: Future.delayed(const Duration(seconds: 3), () {
-              return Image.network(
-                  'https://flutter.github.io/assets-for-api-docs/assets/widgets/owl-2.jpg');
-            }),
-            builder: (BuildContext context, AsyncSnapshot snapshot) {
-              if (snapshot.hasData) {
-                return Container(
-                  child: snapshot.data,
-                );
-              } else {
-                return const Center(
-                  child: CircularProgressIndicator(),
-                );
-              }
-            },
-          ),
-          FutureBuilder(
-            future: Future.delayed(const Duration(seconds: 5), () {
-              return Image.network(
-                  'https://flutter.github.io/assets-for-api-docs/assets/widgets/owl.jpg');
-            }),
-            builder: (BuildContext context, AsyncSnapshot snapshot) {
-              if (snapshot.hasData) {
-                return Container(
-                  child: snapshot.data,
-                );
-              } else {
-                return const Center(
-                  child: CircularProgressIndicator(),
-                );
-              }
-            },
-          ),
-        ],
-      ),
-    ),
-  );
-}
